@@ -48,4 +48,4 @@ class Contact(ndb.Model):
     company_name = ndb.StringProperty()
     company_description = ndb.TextProperty()
     company_address = ndb.StringProperty()
-# [end structured_property_models]
+# [END structured_property_models]
